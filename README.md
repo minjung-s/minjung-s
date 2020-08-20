@@ -13,6 +13,7 @@
 ### ⚡ Interests
 - Generative Model
 - Computer Vision
+- Image Restoration
 - Human Analysis
 - Deep Learning
 
