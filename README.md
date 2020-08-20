@@ -7,7 +7,7 @@
 ### 🔭 Internship
 - Artifical Intelligence Reasearch Lab of ETRI ```2019.01 ~ 2019.02```
 
-### ✨ Puplication
+### ✨ Publication
 - Detectable Object-Size Range Estimation Based Multi-Task Cascaded Convolutional Neural Networks in the Vehicle Environment (2019-Fall IEEE VTC)
 
 ### ⚡ Interests
