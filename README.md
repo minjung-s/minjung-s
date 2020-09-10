@@ -12,15 +12,16 @@
 
 ### ⚡ Interests
 - Generative Model
-- Computer Vision
+- Image Generation/Translation
 - Image Restoration
 - Human Analysis
 - Deep Learning
+- Computer Vision
 
 ### 📫 Contact
 - <smj139052@naver.com>
 
-You can check my CV [here](https://github.com/minjung-s/minjung-s/blob/master/SMJ_CV.pdf)
+You can check my CV [💬here💬](https://github.com/minjung-s/minjung-s/blob/master/SMJ_CV.pdf)
 
 <!--
 **minjung-s/minjung-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
