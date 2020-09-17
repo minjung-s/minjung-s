@@ -5,7 +5,7 @@
 - Undergraduate Student in School of Electronics&Communications, Kwangwoon University ```2016.03 ~ 2021.02 (Expected)```
 
 ### 🔭 Internship
-- Artifical Intelligence Reasearch Lab of ETRI ```2019.01 ~ 2019.02```
+- Research Intern at the Artifical Intelligence Reasearch Lab of ETRI ```2019.01 ~ 2019.02```
 
 ### ✨ Publication
 - Detectable Object-Size Range Estimation Based Multi-Task Cascaded Convolutional Neural Networks in the Vehicle Environment (2019-Fall IEEE VTC)
