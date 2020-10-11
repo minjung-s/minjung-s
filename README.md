@@ -13,6 +13,7 @@
 ### ⚡ Interests
 - Generative Model
 - Image Generation/Translation
+- Voice Conversion
 - Image Restoration
 - Human Analysis
 - Deep Learning
