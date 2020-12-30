@@ -27,8 +27,9 @@
 
 
 
+
+#### You can check my Portfolio [💬here💬](https://www.notion.so/78fec89202a84503a00a3f15573d5ebb)
 <!--
-#### You can check my CV [💬here💬](https://github.com/minjung-s/minjung-s/blob/master/SMJ_CV.pdf)
 **minjung-s/minjung-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
