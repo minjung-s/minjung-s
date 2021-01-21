@@ -5,7 +5,7 @@
 
 
 ### :mortar_board: Education 
-- MS in department of Artificial Intelligence, Yonsei University ```2020.03 (Expected)```
+- MS in Artificial Intelligence, Yonsei University ```2020.03 (Expected)```
 - Undergraduate Student in department of Electronics&Communications, Kwangwoon University ```2016.03 ~ 2021.02 (Expected)```
 
 ### 🔭 Internship
