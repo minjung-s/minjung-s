@@ -1,6 +1,6 @@
 ## Minjung Shin
 
-![s](https://komarev.com/ghpvc/?username=minjung-s) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:shinmj@gmail.com) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://github.com/minjung-s/minjung-s/blob/master/SMJ_CV.pdf)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:shinmj@gmail.com) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://github.com/minjung-s/minjung-s/blob/master/SMJ_CV.pdf)  
   
 
 
@@ -16,11 +16,9 @@
 
 ### ⚡ Interests
 - Generative Model
-- Image Generation/Translation
-- Voice Conversion
-- Image Restoration
-- Human Analysis
-- Deep Learning
+- Image&Video Generation
+- Transformer in Vision
+- Signal Processing
 - Computer Vision
 
 ### 📫 Contact
@@ -43,3 +41,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Minjung's github stats](https://github-readme-stats.vercel.app/api?username=minjung-s&show_icons=true&hide_border=true) 
