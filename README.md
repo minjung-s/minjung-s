@@ -18,7 +18,6 @@
 - Generative Model
 - Image&Video Generation
 - Transformer in Vision
-- Signal Processing
 - Computer Vision
 
 ### 📫 Contact
