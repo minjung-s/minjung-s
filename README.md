@@ -21,7 +21,7 @@
 - Computer Vision
 
 ### 📫 Contact
-- <smj139052@naver.com>
+- <smj139052@yonsei.ac.kr>
 
 
 
