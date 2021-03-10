@@ -5,7 +5,7 @@
 
 
 ### :mortar_board: Education 
-- MS in Artificial Intelligence, Yonsei University ```2020.03```
+- MS in Artificial Intelligence, Yonsei University ```2020.03 ~```
 
 ### 🔭 Work Experience
 - Research Intern at the Artifical Intelligence Reasearch Lab of ETRI ```2019.01 ~ 2019.02```
