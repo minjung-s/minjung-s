@@ -16,8 +16,8 @@
 ### ⚡ Interests
 - Generative Model
 - Image&Video Generation
-- Transformer in Vision
 - Computer Vision
+- Signal Processing
 
 
 ### 📚 Skill
