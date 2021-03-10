@@ -33,7 +33,7 @@
 </p>
 
 ### 📫 Contact
-- <smj139052@yonsei.ac.kr>
+- <smj139052@naver.com>
 
 
 
