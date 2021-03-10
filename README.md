@@ -7,7 +7,7 @@
 ### :mortar_board: Education 
 - MS in Artificial Intelligence, Yonsei University ```2020.03```
 
-### 🔭 Internship
+### 🔭 Work Experience
 - Research Intern at the Artifical Intelligence Reasearch Lab of ETRI ```2019.01 ~ 2019.02```
 
 ### ✨ Publication
@@ -18,6 +18,19 @@
 - Image&Video Generation
 - Transformer in Vision
 - Computer Vision
+
+
+### 📚 Skill
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/> 
+</p>
 
 ### 📫 Contact
 - <smj139052@yonsei.ac.kr>
