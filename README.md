@@ -1,6 +1,6 @@
 ## Minjung Shin
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:shinmj@gmail.com) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://drive.google.com/file/d/1U51dTxm4z_KlPSLQxzY_qhEcVWK4WJFD/view?usp=sharing)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:shinmj@gmail.com) [![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://drive.google.com/file/d/1L65ElWqE-nV0PD2JJcqjm2EI9IMy1kLB/view?usp=sharing)  
 ### :mortar_board: Education 
 - MS in Artificial Intelligence, Yonsei University ```2021.03 ~```
 
