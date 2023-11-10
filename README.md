@@ -6,7 +6,7 @@
 - Ph.D in Artificial Intelligence, Yonsei University ```2021.03 ~```
 
 ### 🔭 Work Experience
-- Research Intern at the Generation Research of NAVER AI Lab ```2022.12 ~ ```
+- Research Intern at the Generation Research of NAVER AI Lab ```2022.12 ~ 2023.06```
 - Research Intern at the Artifical Intelligence Reasearch Lab of ETRI ```2019.01 ~ 2019.02```
 
 ### ⚡ Interests
