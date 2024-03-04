@@ -12,7 +12,7 @@
 ### ⚡ Interests
 - Generative Model
 - 3D/4D Generation
-- 3D/4D Recontruction
+- 3D/4D Reconstruction
 
 
 ### 📚 Skills
