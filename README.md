@@ -11,8 +11,8 @@
 
 ### ⚡ Interests
 - Generative Model
-- 3D-aware GANs
-- NeRF
+- 3D/4D Generation
+- 3D/4D Recontruction
 
 
 ### 📚 Skills
